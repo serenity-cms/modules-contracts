@@ -1,0 +1,20 @@
+{
+    "name": "serenity-cms/modules-contracts",
+    "description": "Serenity CMS - Modules Contracts Package",
+    "keywords": ["serenity", "cms", "modules", "contracts"],
+    "license": "MIT",
+    "authors": [
+		{
+			"name": "Matej Vitaz",
+			"email": "mspiderv@gmail.com"
+		}
+	],
+    "require": {
+        "php": ">=5.6.4",
+    },
+    "autoload": {
+        "psr-4": {
+            "Serenity\\ModulesContracts\\": ""
+        }
+    }
+}
